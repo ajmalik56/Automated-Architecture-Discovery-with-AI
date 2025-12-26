@@ -1,0 +1,39 @@
+MIT License
+
+Copyright (c) 2025 Abhishek Datta
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Additional Disclaimer for Educational/Demo Projects
+
+This software is provided as a DEMONSTRATION and EDUCATIONAL project. It is NOT 
+production-ready and should NOT be used in production environments without 
+significant modifications, security hardening, and thorough testing.
+
+See DISCLAIMER.md for complete details on limitations, security considerations, 
+and proper usage guidelines.
+
+By using this software, you acknowledge that:
+1. This is a portfolio/educational project
+2. You use it at your own risk
+3. The author bears no responsibility for production deployments
+4. You will conduct proper security reviews before any production use
+5. You accept full responsibility for any modifications or deployments
